@@ -1,0 +1,1 @@
+**CatSDK 1.1** is an AI-powered universal compiler that turns natural-language ideas and project specifications into working software for virtually any target platform. Its built-in **AI OS** manages generation, compilation, testing, debugging, tools, and project iteration as one integrated development environment. CatSDK follows one rule: **build it, run it, improve it. :3**
